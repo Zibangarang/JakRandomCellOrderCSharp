@@ -4,4 +4,4 @@ Based on SixRockFire's original idea and code. Generates a random power cell ord
 https://github.com/SixRockFire/JakRCO
 
 Run it in Visual Studio --> generates a LiveSplit file at the location of the executable.
-Will create standalone exe later
+Standalone release also available.
